@@ -14,5 +14,5 @@ describe('App', () => {
     expect(component).to.contain('React simple starter');
 
   });
-  
+
 });
